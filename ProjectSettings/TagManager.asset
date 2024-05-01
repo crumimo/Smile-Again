@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickupItem
+  - Arrow
+  - Send
+  - Wood
+  - Slot
+  - InventoryCanvas
+  - Clock
+  - SmallArrow
+  - BigArrow
+  - Pesok1
+  - Pesok2
+  - Pesok3
+  - Block
+  - PlayerInputZone
+  - Puzzle
+  - Ground
+  - Enemy
+  - Bullet
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Overline
+    uniqueID: 24719341
+    locked: 0
+  - name: cupsSocks
+    uniqueID: 1903672919
+    locked: 0
+  - name: Player
+    uniqueID: 4009770383
+    locked: 0
